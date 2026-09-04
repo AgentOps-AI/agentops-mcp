@@ -1,6 +1,6 @@
 # AgentOps MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@AgentOps-AI/agentops-mcp)](https://smithery.ai/server/@AgentOps-AI/agentops-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.agentops-ai/agentops-mcp)](https://lightnow.ai/servers/io.github.agentops-ai/agentops-mcp)
 
 The AgentOps MCP server provides access to observability and tracing data for debugging complex AI agent runs. This adds crucial context about where the AI agent succeeds or fails.
 
